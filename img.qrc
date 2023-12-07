@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="png">
+    <file>images/matrix_off.png</file>
+    <file>images/matrix_on.png</file>
+    <file>images/device_off.png</file>
+    <file>images/device_on.png</file>
+    <file>images/bk.png</file>
+  </qresource>
+</RCC>
